@@ -1,0 +1,8 @@
+# ANT
+lib/libantradio.so
+
+# Bluetooth-AptX
+lib/libaptX_encoder.so
+
+# Radio-IMS
+-app/ImsSettings/ImsSettings.apk
